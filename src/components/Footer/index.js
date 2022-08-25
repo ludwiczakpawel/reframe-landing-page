@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 
 const Footer = () => {
   return (
-    <footer className="py-24 flex flex-col md:flex-row justify-between gap-2 w-full max-w-3xl mx-auto items-start">
+    <footer className="py-24 flex flex-col md:flex-row justify-between gap-2 w-full max-w-3xl mx-auto items-start text-sm md:text-base">
       <p class="opacity-50">
         &copy;2022 Reframe Technology Inc.
         <br />
