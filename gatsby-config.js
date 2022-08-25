@@ -1,6 +1,10 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`
+    title: "Reframe",
+    siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: ["gatsby-plugin-postcss", "gatsby-plugin-react-helmet"]
+  plugins: [
+    "gatsby-plugin-postcss",
+    "gatsby-plugin-react-helmet",
+  ],
 };
